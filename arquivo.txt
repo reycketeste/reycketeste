@@ -5,6 +5,17 @@ fazendo primeira alteração commit github
 .
 wg
 uj
+<<<<<<< HEAD
 segunda alteração
 jkgkjgkjgkjgkjgkj
 
+=======
+adsadsadsa
+asdasdasdsaas
+asdasdsa
+asddasd
+asdasdsadasdsad
+sadsad
+:wq
+i
+>>>>>>> 5406a7b (sec alt4)
